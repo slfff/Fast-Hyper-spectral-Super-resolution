@@ -1,4 +1,4 @@
-# Fast hyperspectral image super-resolution using linear regression
+# Fast Hyper-spectral Image Super-resolution using Linear Regression
 
 # C language implementation
   This version of C language implementation is developed on Linux. Intel Math Kernel Library (MKL) and Matlab R2014a extern library are
